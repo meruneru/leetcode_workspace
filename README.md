@@ -1,5 +1,10 @@
 # Leetcode
 
+[コーディング面接対策のために解きたいLeetCode 60問](https://1kohei1.com/leetcode/) に紹介されている問題を解いていく。
+
+開発環境はVSCodeで[github:vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)プラグインを使う。
+[vscode-leetcode で快適 LeetCode 生活](https://zenn.dev/ryo_kawamata/articles/introduce-vscode-leetcode)という記事を参考にした。
+
 ## LinkedList
 | Problem                               | Difficulty | Solved |note|
 |---------------------------------------|------------|--------|-----|
