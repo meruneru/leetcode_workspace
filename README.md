@@ -75,11 +75,11 @@ sort済みで格納される問題がないなら、unordered_set/unordered_map�
 |Paint Fence||||
 |Longest Increasing Subsequence|medium|2022/5/4| 最長増加部分列問題。有名なアルゴリズムだけど、知らないと厳しい。蟻本P.65|
 |Maximum Subarray|medium|2022/5/4| 部分和を２つの変数で持つ。自力では難しい。|
-|Unique Paths||||
-|Unique Paths II||||
-|House Robber||||
-|House Robber II||||
-|Best Time to Buy and Sell Stock||||
+|Unique Paths|medium|2022/5/4|易しめのDPだった|
+|Unique Paths II|medium|2022/5/8|事前に１を色々とセットして、dpを回す問題だった|
+|House Robber|medium|2022/5/9|解答は短い。いい問題だった|
+|House Robber II|||解けていない。よく分からない|
+|Best Time to Buy and Sell Stock|easy|2022/5/11|今までの最小値を覚えてDPした。|
 |Best Time to Buy and Sell Stock II||||
 |Word Break||||
 |Coin Change||||
@@ -88,7 +88,7 @@ sort済みで格納される問題がないなら、unordered_set/unordered_map�
 
 | Problem                            | Difficulty | Solved | note |
 |------------------------------------|------------|--------|-------|
-|Search Insert Position||||
+|Search Insert Position|easy|2022/5/12|二探索をベーシックに実装したらOK|
 |Find Minimum in Rotated Sorted Array||||
 |Search in Rotated Sorted Array||||
 |Capacity To Ship Packages Within D Days||||
